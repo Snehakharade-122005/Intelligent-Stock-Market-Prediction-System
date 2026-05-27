@@ -188,7 +188,7 @@ streamlit run app.py
 
 # 👩‍💻 Author
 
-## Sneha Kharade
+## Sneha Dilip Kharade
 
 Developed as a Machine Learning & Deep Learning based academic project for intelligent stock market forecasting and prediction.
 

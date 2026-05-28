@@ -1,8 +1,8 @@
-streamlit==1.35.0
-tensorflow==2.16.1
-keras==3.3.3
+streamlit
+tensorflow-cpu
 pandas
 numpy
 matplotlib
 scikit-learn
 h5py
+keras
